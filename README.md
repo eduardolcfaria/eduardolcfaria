@@ -4,7 +4,7 @@
   <a href="https://github.com/eduardolcfaria">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardolcfaria&show_icons=true&theme=radical"/>
     <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolcfaria&layout=compact&langs_count=6&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
