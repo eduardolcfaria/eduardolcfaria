@@ -6,20 +6,28 @@
 
  📖 Oi, meu nome é Eduardo, sou desenvolvedor front-end. Atualmente estou focado em HTML, CSS e JavaScript.
 
-  🥇 Meu principal objetivo e ser um desenvolvedor Fullstack.
+  🥇 Meu principal objetivo é ser um desenvolvedor Fullstack.
   <br>
   
   🗺️ Continuo me descobrindo neste vasto mundo da programação.
+<br>
+<br>
+<br>
 
+## 💻 Status e tecnologias:
+<br>
 
 <div>
   <a href="https://github.com/eduardolcfaria">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardolcfaria&show_icons=true&theme=dark"/>
     <br>
+    <br>
+    <br>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=dark"/>
 </div>
-  
-<div style="display: inline_block"><br>
+   
+<div style="display: inline_block"><br> 
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
