@@ -1,4 +1,16 @@
+
+![code](https://github.com/eduardolcfaria/eduardolcfaria/assets/48771907/4d5d01d3-1824-445d-8d93-c3143cae30ad)
 ## Bem-vindo(a) ao meu perfil ✌️
+
+## 🗣️ Sobre mim: 
+
+ 📖 Oi, meu nome é Eduardo, sou desenvolvedor front-end. Atualmente estou focado em HTML, CSS e JavaScript.
+
+  🥇 Meu principal objetivo e ser um desenvolvedor Fullstack.
+  <br>
+  
+  🗺️ Continuo me descobrindo neste vasto mundo da programação.
+
 
 <div>
   <a href="https://github.com/eduardolcfaria">
