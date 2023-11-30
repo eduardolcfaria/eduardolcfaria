@@ -4,7 +4,7 @@
 
 ## 🗣️ Sobre mim: 
 
- 📖 Oi, meu nome é Eduardo, sou desenvolvedor front-end. Atualmente estou focado em HTML, CSS ,JavaScript e Java.
+ 📖 Oi, meu nome é Eduardo, sou desenvolvedor front-end. Atualmente estou focado em HTML, CSS , JavaScript e Java.
 
   🥇 Meu principal objetivo é ser um desenvolvedor Fullstack.
   <br>
