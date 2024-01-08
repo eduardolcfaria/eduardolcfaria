@@ -4,9 +4,7 @@
 
 ## 🗣️ Sobre mim: 
 
- 📖 Oi, meu nome é Eduardo, sou desenvolvedor front-end. Atualmente estou focado em HTML, CSS , JavaScript e Java.
-
-  🥇 Meu principal objetivo é ser um desenvolvedor Fullstack.
+ 📖 Meu nome é Eduardo, e atualmente dedico minha carreira ao desenvolvimento web. Ao longo de minha trajetória profissional, estou comprometido em adquirir competências sólidas e abrangentes que me permitirão       evoluir para a posição de desenvolvedor full stack.
   <br>
   
   🗺️ Continuo me descobrindo neste vasto mundo da programação.
@@ -25,6 +23,14 @@
     <br>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=dark"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Edu-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Edu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
    
  <br>
